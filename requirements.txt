@@ -13,3 +13,5 @@ yarl
 pyrogram
 Pysocks
 aiohttp_socks
+flask
+gunicorn
