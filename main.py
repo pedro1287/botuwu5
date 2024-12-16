@@ -21,6 +21,7 @@ import socket
 import tlmedia
 import S5Crypto
 import asyncio
+import main.py
 import aiohttp
 from yarl import URL
 import re
