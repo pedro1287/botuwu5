@@ -9,7 +9,7 @@ import zipfile
 import os
 import infos
 import xdlink
-import mediafire
+
 import datetime
 import time
 import youtube
@@ -21,7 +21,7 @@ import socket
 import tlmedia
 import S5Crypto
 import asyncio
-import app.py
+
 import aiohttp
 from yarl import URL
 import re
