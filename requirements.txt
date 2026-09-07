@@ -1,17 +1,16 @@
-requests
-requests[socks]
-bs4
-user_agent
-youtube_dl
-requests_toolbelt
-telethon
-tenacity
-pyrogram
-tgcrypto
-aiohttp
-yarl
-pyrogram
-Pysocks
-aiohttp_socks
+requests 2.31.0
+requests[socks] 1.7.1
+bs4 4.12.2
+user_agent 0.1.10
+youtube_dl 
+requests_toolbelt 1.0.0
+telethon 1.34.0
+tenacity 8.2.3
+pyrogram 2.0.106
+tgcrypto 1.2.5
+aiohttp 3.9.3
+yarl 1.9.4
+Pysocks 1.7.1
+aiohttp_socks 0.8.4
 flask
-gunicorn
+gunicorn 21.2.0
