@@ -1,4 +1,4 @@
-requests 2.31.0
+requests 26.2.1
 requests[socks] 1.7.1
 bs4 4.12.2
 user_agent 0.1.10
